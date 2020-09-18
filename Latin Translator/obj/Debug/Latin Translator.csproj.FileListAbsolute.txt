@@ -1,0 +1,10 @@
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csprojAssemblyReference.cache
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.LatinTranslator.resources
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.cache
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.CoreCompileInputs.cache
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+C:\Users\16053\Desktop\CIS\Latin Translator\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb
